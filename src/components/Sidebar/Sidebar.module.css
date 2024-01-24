@@ -1,0 +1,27 @@
+.sidebar{
+  display: flex;
+  flex-direction: column;
+  background-color:#2B2F32;
+  width: 15rem;
+  height: 15rem;
+  align-items: center;
+  margin-top: 2rem;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.imgProfile{
+  margin-top: calc(0px - 80px);
+  width: 7rem;
+  border-radius: 6px;
+}
+
+.imgWallpaper{
+  width: 100%;
+  height: 9rem;
+}
+
+.sidebar span{
+  margin-top: 1rem;
+   color: white;
+}
